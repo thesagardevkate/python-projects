@@ -19,5 +19,5 @@ elif operator == "/":
     print(result)
 else: 
     print(f"{operator} is not a valid operator")
-    
+
   
